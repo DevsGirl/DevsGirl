@@ -26,8 +26,8 @@ Skills: HTML, CSS, javaScript, React JS, Firebase, Mongo DB, React Bootstrap, Ma
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/DevsGirl)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/DevsGirl)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/DevsGirl)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/DevsGirl)  
+
+
+
