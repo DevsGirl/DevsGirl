@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Saifun Nahar Sumi
 #### I am a Front-end Developer.
-I am Saifun Nahar Sumi. I am a professional Web Developer with 2 years of experience. I live in Dhaka, Bangladesh. I love programming. I believe that my love for programming will one day throw away my dreams. So in this revolution of information technology, I constantly re-arranging myselves. I always love to take on new challenges. This new challenge will help me to fulfill my dream the most. I am currently a Level 1 seller at Fiverr.
+I am Saifun Nahar Sumi. I am a professional Web Developer with 3 years of experience. I live in Dhaka, Bangladesh. I love programming. I believe that my love for programming will one day throw away my dreams. So in this revolution of information technology, I constantly re-arranging myselves. I always love to take on new challenges. This new challenge will help me to fulfill my dream the most. I am currently a Level 1 seller at Fiverr.
 
 Skills: HTML, CSS, javaScript, React JS, Firebase, Mongo DB, React Bootstrap, Material UI, and Tailwind CSS.
 
